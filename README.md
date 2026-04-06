@@ -143,9 +143,3 @@ Before this assignment I had no background in bioinformatics. Key things I under
 
 ---
 
-## Possible Improvements (Future Work)
-
-- **Larger window** (e.g. W=21) to capture slightly longer-range interactions  
-- **Position-Specific Scoring Matrices (PSSMs)** from evolutionary data instead of raw one-hot encoding — the standard input to PSIPRED  
-- **BiLSTM / Transformer** models that can capture dependencies across the full sequence  
-- These are described in the resources linked in the assignment
